@@ -12,7 +12,7 @@ Explore fundamental data structures and algorithms in Python—essential for cra
 
 ## _🌲 Binary Tree_
 > A hierarchical data structure where each node has at most two children: left and right.
-![Binary Tree](https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_tree.svg)
+![Binary Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Binary_tree_v2.svg/500px-Binary_tree_v2.svg.png)
 
 ---
 
@@ -36,7 +36,7 @@ Explore fundamental data structures and algorithms in Python—essential for cra
 
 ## _#️⃣ Hashing_
 > Converts data to a fixed-size hash for quick lookups in hash tables.
-![Hash Table](https://upload.wikimedia.org/wikipedia/commons/7/7d/Hash_table_3_1_1_0_1_0_0_SP.svg)
+![Hash Table](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hash_table_3_1_1_0_1_0_0_SP.svg/1200px-Hash_table_3_1_1_0_1_0_0_SP.svg.png)
 
 ---
 
@@ -48,7 +48,7 @@ Explore fundamental data structures and algorithms in Python—essential for cra
 
 ## _🧵 Multithreading_
 > Runs multiple threads concurrently, improving performance and responsiveness in programs.
-![Multithreading Concept](https://upload.wikimedia.org/wikipedia/commons/4/4d/Multithreaded_process.svg)
+![Multithreading Concept](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Multithreaded_process.svg/375px-Multithreaded_process.svg.png)
 
 ---
 
